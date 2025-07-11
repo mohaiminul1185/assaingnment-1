@@ -11,6 +11,7 @@ button {
   border-radius: 8px;
   font-weight: 600;
   padding:12px 28px;
+ 
 }
 
 .hero {
@@ -18,6 +19,7 @@ button {
   padding: 80px 20px;
   text-align: center;
   position: relative;
+  padding:100px 24px;
 }
 
 .top-bar {
