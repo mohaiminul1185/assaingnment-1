@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: #f5f6fc;
+  background: #f0f4ff;
   color: #1a1a1a;
 }
 
@@ -10,6 +10,7 @@ button {
   border: none;
   border-radius: 8px;
   font-weight: 600;
+  padding:12px 28px;
 }
 
 .hero {
